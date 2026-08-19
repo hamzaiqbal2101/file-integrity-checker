@@ -1,0 +1,1 @@
+This file lives in a nested directory to exercise recursive scanning.

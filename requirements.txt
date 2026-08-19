@@ -1,0 +1,6 @@
+# This project uses only the Python 3.10+ standard library (hashlib, os,
+# json, argparse, fnmatch, tempfile, pathlib, dataclasses, enum). No runtime
+# dependencies are required.
+
+# Development / testing only.
+pytest>=8.0.0

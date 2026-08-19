@@ -1,0 +1,5 @@
+{
+  "service": "demo",
+  "port": 8080,
+  "tls": true
+}
