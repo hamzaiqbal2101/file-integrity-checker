@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab?logo=python&logoColor=white)
 ![CI](https://img.shields.io/github/actions/workflow/status/hamzaiqbal2101/file-integrity-checker/ci.yml?label=CI)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-blue)
-![Tests](https://img.shields.io/badge/tests-68%20passing-green)
+![Tests](https://img.shields.io/badge/tests-70%20passing-green)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 A production-style, modular **File Integrity Verifier (FIM)** built as a
