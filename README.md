@@ -16,6 +16,14 @@ you capture a trusted **baseline**, then periodically **verify** that
 nothing on disk has changed. Unauthorized modifications, deletions, and
 additions are all reported.
 
+This is the second project in a cybersecurity portfolio:
+
+1. [Password Strength Checker](https://github.com/hamzaiqbal2101/password-strength-checker)
+2. **File Integrity Checker** (this project)
+3. [File Encryptor](https://github.com/hamzaiqbal2101/file-encryptor)
+4. [Subdomain Enumerator](https://github.com/hamzaiqbal2101/subdomain-enumerator)
+5. [Port Scanner](https://github.com/hamzaiqbal2101/portscanner)
+
 ## Features
 
 - **Multiple hash algorithms** - MD5, SHA-1, SHA-256, SHA-512
